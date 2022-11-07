@@ -3,7 +3,7 @@ import "./App.css"
 
 function contactnav (){
     return (
-        <a href = "/contact" ><button id= "contact">Contact Me</button></a>
+        <a href = "contact" ><button id= "contact">Contact Me</button></a>
     )
 }
 
