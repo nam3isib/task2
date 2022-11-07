@@ -19,7 +19,7 @@ function Home() {
       <div className="sponsorcompany">
         <h3>
           INGRESSIVE <br />
-          FOR GOOD
+          FOR GOOD 1232
         </h3>
       </div>
     </footer>
