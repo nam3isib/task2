@@ -12,7 +12,7 @@ return(
     <div className="sponsor"><h4>HNG Partnership 9 Frontend Task</h4></div>
     <div className="spornsor company">
        
-        <h3>INGRESSIVE <br/>FOR GOOD123</h3>
+        <h3>INGRESSIVE <br/>FOR GOOD</h3>
     </div>
 </footer>
 </div>
